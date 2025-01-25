@@ -55,7 +55,7 @@ cd receipt-to-table
 Tested on **Python 3.11**:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 3. Configure Tesseract
