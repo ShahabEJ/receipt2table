@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/09e3c9ac-2d7d-41ed-8bd5-8bef8e8616b6
 
 
 
-## Features
+## Features ✨
 
 - **Image Loading**  
   Opens a file dialog to let the user pick any standard image format (PNG, JPEG, etc.).
@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/09e3c9ac-2d7d-41ed-8bd5-8bef8e8616b6
 
 ---
 
-## Setup
+## Setup 🔧
 
 ### 1. Clone / Download
 
@@ -56,7 +56,7 @@ git clone https://github.com/yourusername/receipt-to-table.git
 cd receipt-to-table
 ```
 
-### 2. Install Dependencies
+### 2. Install Dependencies 📦
 
 Tested on **Python 3.11**:
 
@@ -77,6 +77,6 @@ export TESSERACT_PATH="C:/Program Files/Tesseract-OCR/tesseract.exe"
 ### 4. Set your OpenAI API Key in the `.env` file:
 OPENAI_API_KEY="sk-xxxxx"
 
-## Run the App
+## Run the App 🚀
 1. Go to the `src` folder.
 2. Run the app by `python main.py`.
